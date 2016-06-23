@@ -1,0 +1,6 @@
+c:\Users\usmatmoh\documents\visual studio 2015\Projects\MyQueue\MyQueue\bin\Debug\MyQueue.exe.config
+c:\Users\usmatmoh\documents\visual studio 2015\Projects\MyQueue\MyQueue\bin\Debug\MyQueue.exe
+c:\Users\usmatmoh\documents\visual studio 2015\Projects\MyQueue\MyQueue\bin\Debug\MyQueue.pdb
+c:\Users\usmatmoh\documents\visual studio 2015\Projects\MyQueue\MyQueue\obj\Debug\MyQueue.csprojResolveAssemblyReference.cache
+c:\Users\usmatmoh\documents\visual studio 2015\Projects\MyQueue\MyQueue\obj\Debug\MyQueue.exe
+c:\Users\usmatmoh\documents\visual studio 2015\Projects\MyQueue\MyQueue\obj\Debug\MyQueue.pdb

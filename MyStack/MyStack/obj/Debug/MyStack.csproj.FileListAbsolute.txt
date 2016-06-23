@@ -1,0 +1,6 @@
+c:\users\usmatmoh\documents\visual studio 2015\Projects\MyStack\MyStack\bin\Debug\MyStack.exe.config
+c:\users\usmatmoh\documents\visual studio 2015\Projects\MyStack\MyStack\bin\Debug\MyStack.exe
+c:\users\usmatmoh\documents\visual studio 2015\Projects\MyStack\MyStack\bin\Debug\MyStack.pdb
+c:\users\usmatmoh\documents\visual studio 2015\Projects\MyStack\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+c:\users\usmatmoh\documents\visual studio 2015\Projects\MyStack\MyStack\obj\Debug\MyStack.exe
+c:\users\usmatmoh\documents\visual studio 2015\Projects\MyStack\MyStack\obj\Debug\MyStack.pdb
